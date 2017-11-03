@@ -622,7 +622,7 @@ Enables peer cache for Configuration Manager clients. Then, specify port informa
 
 -   **Port used to download content for Express installation files**
 
--   **Enable management of the Office 365 Client Again**
+-   **Enable management of the Office 365 Client Agent**
     Use this setting to enable the management of the Office 365 Client Agent. When you set the value to **Yes**, it allows you to configure Office 365 installation settings, download files from Office Content Delivery Networks (CDNs), and deploy the files as an application in Configuration Manager.
 
 ##  User and device affinity  
